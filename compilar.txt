@@ -1,0 +1,1 @@
+g++ main.cpp -o user_game -I./sqlite -L./sqlite -lsqlite3
